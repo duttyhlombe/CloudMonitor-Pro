@@ -43,7 +43,7 @@ bash
 Copy code
 python main.py
 Usage
-Once the application is running, you can access the web interface via http://localhost:8000.
+Once the application is running, you can access the web interface via http://localhost:5000.
 
 Accessing the Dashboard
 Navigate to the dashboard to view real-time metrics, manage resources, and configure alerts.
